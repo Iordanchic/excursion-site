@@ -1,0 +1,43 @@
+h1 {
+	 text-align: center
+	 padding-left:5;
+	 }
+	 
+p {
+color: blue;
+}
+
+h2.head {
+	 text-align: center; }
+	
+	.header {
+	 display: block;
+	 height: 405px;
+	 background:  https://i.pinimg.com/originals/08/1e/b5/081eb543c95a14b2da5bb63cf06bb8fc.jpg no-repeat center bottom;
+	}
+	
+	.nav.head {
+	 margin-top: 0%;	
+	}
+	
+	.myHeader {
+	 width: 100%;
+	 background-color: #1090da;
+	 margin-left: 0;
+	 margin-bottom: 10px;
+	 padding: 20px 7px 5px;
+	}
+	
+	.centerHeader {
+	 margin: auto;
+	 max-width: 1900px;
+	 position: relative;
+	 width: 90%;
+	}
+	
+	.header-main {
+	 display: flex;
+	 flex-direction: row;
+	 padding-top: 0%
+	border: 0px;
+	}
