@@ -6,16 +6,27 @@ body {
  font-family: "Roboto", Arial, sans-serif;
  font-size: .875rem;
  line-height: 2;
+ margin: 0;
+}
 
+img {
+ vertical-align: middle;
+ border-style: none; 
 }
 
 .top-bar {
  background: #005aa9;
  color: #fff;
+ width: 100%;
 }
 
 .container {
  max-width: 1140px;
+ width: 100%;
+ padding-right: 15px;
+ padding-left: 15px;
+ margin-right: auto;
+ margin-left: auto;
 }
 
 .top-bar-holder {
@@ -36,12 +47,23 @@ color: red;
 }
 
 
-
-
-
 a {
-	color: #00b8c7;
+ text-decoration: none;
+ }
+
+.header-info-left {
+ flex: 1 1 40%;
+ display: flex;
+ align-items: center;
 }
+
+.header-info-left .logo img {
+ width: 120px;
+ height: 40px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
 .header-info-right {
  flex: 0 0 60%;
  display: flex; 
@@ -62,11 +84,12 @@ cursor: pointer;
 
 .header-info-label {
  font-size: .6875rem;
- color: #868e96;
-}
+ color: #868e96;}
 
 .header-info-phone-number {
  font-weight: 500;
+ color: #00b8c7;
+ text-decoration: none;
 }
 
 .top-menu-item {
@@ -77,8 +100,14 @@ cursor: pointer;
  position
 }
 
+.top-menu-item > a {
+ display: block;
+ padding: .375rem .75rem;
+ color: #FFFFFF;
+}
+
 h1 {
-	 text-align: center
+	 text-align: center;
 	 padding-left:5;
 }
 	 
@@ -100,8 +129,7 @@ h2.head {
 	}
 	
 	.myHeader {
-	 width: 100%;
-	 background-color: #1090da;
+	background-color: #1090da;
 	 margin-left: 0;
 	 margin-bottom: 10px;
 	 padding: 20px 7px 5px;
