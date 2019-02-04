@@ -5,7 +5,7 @@ html {
 body {
  font-family: "Roboto", Arial, sans-serif;
  font-size: .875rem;
- line-height: 2;
+ line-height: 1.5;
  margin: 0;
 }
 
@@ -57,17 +57,24 @@ a {
  align-items: center;
 }
 
+.logo { 
+ position: relative;
+}
+
 .header-info-left .logo img {
- width: 120px;
- height: 40px;
+ width: 140px;
+ height: 70px;
  margin-top: 10px;
  margin-bottom: 10px;
 }
 
 .header-info-right {
- flex: 0 0 60%;
+ flex: 0 0;
+ flex-basis: auto;
  display: flex; 
+ flex-direction: column;
  justify-content: flex-end;
+ margin-left: 10px;
 }
 
 .header-info-phone {
@@ -79,7 +86,7 @@ a {
  padding: .25rem 1rem;
  border-radius: .25rem;
  border: 1px solid #f5f5f5;
-cursor: pointer; 
+ cursor: pointer; 
 }
 
 .header-info-label {
@@ -96,8 +103,7 @@ cursor: pointer;
  display: inline-flex;
  align-items: center;
  color: #495057;
- cursor: pointer;
- position
+ cursor: pointer; 
 }
 
 .top-menu-item > a {
@@ -108,7 +114,6 @@ cursor: pointer;
 
 h1 {
 	 text-align: center;
-	 padding-left:5;
 }
 	 
 p {
@@ -149,4 +154,10 @@ h2.head {
 	border: 0px;
 	}
 	
-	
+ /* styles for gelendzhik page */
+	img.center {
+	 display: block;
+	 margin-left: auto;
+	 margin-right: auto;
+	 width: 10%;
+	}
