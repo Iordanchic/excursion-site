@@ -116,10 +116,6 @@ h1 {
 	 text-align: center;
 }
 	 
-p {
-color: blue;
-}
-
 h2.head {
 	 text-align: center; }
 	
@@ -134,7 +130,7 @@ h2.head {
 	}
 	
 	.myHeader {
-	background-color: #1090da;
+	 background-color: #1090da;
 	 margin-left: 0;
 	 margin-bottom: 10px;
 	 padding: 20px 7px 5px;
