@@ -11,7 +11,7 @@ body {
 
 img {
  vertical-align: middle;
- border-style: none;
+ border-style: none; 
 }
 
 .top-bar {
@@ -112,12 +112,9 @@ a {
  color: #FFFFFF;
 }
 
-h1 {
-	 text-align: center;
-}
+h1 { text-align: center; }
 	 
-h2.head {
-	 text-align: center; }
+h2.head { text-align: center; }
 	
 	.header {
 	 display: block;
@@ -150,19 +147,10 @@ h2.head {
 	border: 0px;
 	}
 	
-	ul {
-	 padding-left: 15px;
-	}
-	
  /* styles for gelendzhik page */
 	img.center {
 	 display: block;
 	 margin-left: auto;
 	 margin-right: auto;
 	 width: 10%;
-}
-
-	img.top-bar {
-	 width: 33px;
-	 height: 33px;
 	}
