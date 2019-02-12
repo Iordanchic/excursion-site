@@ -6,4 +6,4 @@
 # Регистрация №2 (логика): https://ruseller.com/search.php?s=регистрация
 # Ресурс от автора htmlbook: https://webref.ru/
 # Адаптивный дизайн: http://htmlbook.ru/blog/css-grid-i-flexbox-sravnenie-na-praktike
-# https://html5book.ru/adaptivnaya-vyorstka-sayta/
+# Адаптивная вёрстка сайта: https://html5book.ru/adaptivnaya-vyorstka-sayta/
