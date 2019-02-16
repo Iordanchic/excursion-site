@@ -7,3 +7,4 @@
 # Ресурс от автора htmlbook: https://webref.ru/
 # Адаптивный дизайн: http://htmlbook.ru/blog/css-grid-i-flexbox-sravnenie-na-praktike
 # Адаптивная вёрстка сайта: https://html5book.ru/adaptivnaya-vyorstka-sayta/
+# Пример сайта с приятным интерфейсом: https://blacksea-trips.ru/
