@@ -14,3 +14,4 @@
 2) МДК 02.01 - дописать отсутствующие конспекты.
 # 3) Couuurse'аааааач!
 # 4 friends! https://en.wikipedia.org/wiki/Semiconductor_industry
+https://www.advantika.ru/company/articles/zhiznennyy-tsikl-sayta/
