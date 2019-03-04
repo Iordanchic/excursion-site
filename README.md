@@ -15,3 +15,5 @@
 # 3) Couuurse'аааааач!
 # 4 friends! https://en.wikipedia.org/wiki/Semiconductor_industry
 https://www.advantika.ru/company/articles/zhiznennyy-tsikl-sayta/
+
+4 myself: https://passportist.ru/index.php?option=com_content&view=article&id=91&Itemid=111
