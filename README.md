@@ -17,3 +17,4 @@
 https://www.advantika.ru/company/articles/zhiznennyy-tsikl-sayta/
 
 4 myself: https://passportist.ru/index.php?option=com_content&view=article&id=91&Itemid=111
+https://journal.reconcept.ru/zhiznennyij-czikl-sajta
