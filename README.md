@@ -1,5 +1,5 @@
 # excursion-site
-
+https://novorossiysk.hh.ru/vacancy/30320983?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply
 # Форма для регистрации: https://html5book.ru/krasivaya-forma-dlya-sayta/
 # Форма и регистрация (логика): https://html5book.ru/sozdanie-html-form/
 # Советы по безопасности (в комментариях): https://habr.com/ru/post/323714/
